@@ -8,6 +8,7 @@ export let BD_ZERO = BigDecimal.fromString("0");
 export let BD_1E18 = BigDecimal.fromString("1e18");
 
 export let TRACKED_PAIRS: string[] = [
+  "0xfecb0b9ae18a8effa7e556a4b97f9ee6c55c20bd", // DINO/BUSD
   "0x1b96b92314c44b159149f7e0303511fb2fc4774f", // WBNB/BUSD
   "0xa527a61703d82139f8a06bc30097cc9caa2df5a6", // CAKE/WBNB
   "0x70d8929d04b60af4fb9b58713ebcf18765ade422", // ETH/WBNB
